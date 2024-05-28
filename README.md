@@ -38,8 +38,16 @@ Here are some technologies I work with:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## GitHub Stats
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishan-singh-xrdev&show_icons=true&theme=dark)](https://github.com/ishan-singh-xrdev)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@i_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@i_singh" height="30" width="40" /></a>
+</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-ishan&show_icons=true&locale=en&layout=compact" alt="coder-ishan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-ishan&show_icons=true&locale=en" alt="coder-ishan" /></p>
 Let's innovate and create amazing experiences together! 🚀
