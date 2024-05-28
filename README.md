@@ -40,12 +40,9 @@ Here are some technologies I work with:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+![How to implement place objects on plane in unity with arcore for android](https://medium.com/@i_singh/how-to-implement-place-objects-on-plane-in-unity-with-arcore-for-android-3c6c3d617ce0)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@i_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@i_singh" height="30" width="40" /></a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-ishan&show_icons=true&locale=en&layout=compact" alt="coder-ishan" /></p>
 
