@@ -40,8 +40,9 @@ Here are some technologies I work with:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Medium_logo.png" alt="Medium Logo" width="20"/> How to implement place objects on plane in Unity with ARCore for Android](https://medium.com/@i_singh/how-to-implement-place-objects-on-plane-in-unity-with-arcore-for-android-3c6c3d617ce0)
+- [How to implement place objects on plane in unity with arcore for android](https://medium.com/@i_singh/how-to-implement-place-objects-on-plane-in-unity-with-arcore-for-android-3c6c3d617ce0)
 <!-- BLOG-POST-LIST:END -->
+
 
 
 
