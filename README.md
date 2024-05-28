@@ -38,10 +38,11 @@ Here are some technologies I work with:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
-![How to implement place objects on plane in unity with arcore for android](https://medium.com/@i_singh/how-to-implement-place-objects-on-plane-in-unity-with-arcore-for-android-3c6c3d617ce0)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Medium_logo.png" alt="Medium Logo" width="20"/> How to implement place objects on plane in Unity with ARCore for Android](https://medium.com/@i_singh/how-to-implement-place-objects-on-plane-in-unity-with-arcore-for-android-3c6c3d617ce0)
 <!-- BLOG-POST-LIST:END -->
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-ishan&show_icons=true&locale=en&layout=compact" alt="coder-ishan" /></p>
