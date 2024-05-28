@@ -1,10 +1,10 @@
-# Hi, I'm Naman Bhargava 👋
+# Hi, I'm Ishan Singh 👋
 
 ## About Me
 
 I'm a passionate developer with a focus on XR (Extended Reality) and Game Development. I love creating immersive experiences that blend the virtual and real worlds.
 
-- 🚀 Currently working at ARIES - Simplifying AR/VR development processes.
+- 🚀 Currently working as Solo Dev and testing multiple technologies.
 - 🌱 Learning and exploring new technologies in XR and game engines.
 - 👯 Looking to collaborate on XR projects and innovative game development ideas.
 - 💬 Ask me about AR/VR, game design, and software development.
