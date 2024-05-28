@@ -11,7 +11,7 @@ I'm a passionate developer with a focus on XR (Extended Reality) and Game Develo
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ishan-singh-xrdev/) | [Gmail](ishansingh2609@gmail.com)
 - 😄 Pronouns: He/Him
 
-## Tech Stack
+## Tech Stacks
 
 Here are some technologies I work with:
 
