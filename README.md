@@ -38,5 +38,8 @@ Here are some technologies I work with:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+## GitHub Stats
+
+[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishan-singh-xrdev&show_icons=true&theme=dark)](https://github.com/ishan-singh-xrdev)
 
 Let's innovate and create amazing experiences together! 🚀
