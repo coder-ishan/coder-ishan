@@ -7,9 +7,8 @@ I'm a passionate developer with a focus on XR (Extended Reality) and Game Develo
 - 🚀 Currently working as Solo Dev and testing multiple technologies.
 - 🌱 Learning and exploring new technologies in XR and game engines.
 - 👯 Looking to collaborate on XR projects and innovative game development ideas.
-- 💬 Ask me about AR/VR, game design, and software development.
+- 💬 Ask me about AR/VR, game development, and software development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ishan-singh-xrdev/) | [Gmail](ishansingh2609@gmail.com)
-- 😄 Pronouns: He/Him
 
 ## Tech Stacks
 
