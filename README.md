@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm a passionate developer with a focus on XR (Extended Reality) and Game Development. I love creating immersive experiences that blend the virtual and real worlds.
+I'm a passionate developer with a focus on Web Development LLMs and Extended Reality. I love creating amazing experiences with code that have a.
 
 - 🚀 Currently working as Solo Dev and testing multiple technologies.
-- 🌱 Learning and exploring new technologies in XR and game engines.
-- 👯 Looking to collaborate on XR projects and innovative game development ideas.
-- 💬 Ask me about AR/VR, game development, and software development.
+- 🌱 Learning and exploring new technologies.
+- 👯 Looking to collaborate on projects and innovative ideas.
+- 💬 Ask me about software development and LLMs.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ishan-singh-xrdev/) | [Gmail](ishansingh2609@gmail.com)
 
 ## Tech Stacks
