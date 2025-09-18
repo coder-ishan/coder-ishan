@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm a passionate developer with a focus on Web Development LLMs and Extended Reality. I love creating amazing experiences with code that have a.
+I'm a passionate developer with a focus on Defi,AI and distributed systems. I love creating amazing experiences with code that have a.
 
-- 🚀 Currently working as Solo Dev and testing multiple technologies.
+- 🚀 Currently working as a Dev and testing multiple technologies in Defi.
 - 🌱 Learning and exploring new technologies.
 - 👯 Looking to collaborate on projects and innovative ideas.
-- 💬 Ask me about software development and LLMs.
+- 💬 Ask me about software development, blockchain  and LLMs.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ishan-singh-xrdev/) | [Gmail](ishansingh2609@gmail.com)
 
 ## Tech Stacks
