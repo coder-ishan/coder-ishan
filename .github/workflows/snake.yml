@@ -1,0 +1,26 @@
+name: Generate snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # every day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push snake assets
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "dist/*"
+          message: "chore: update snake"
