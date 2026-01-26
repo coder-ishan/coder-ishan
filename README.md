@@ -45,3 +45,14 @@ Let's innovate and create amazing experiences together! 🚀
 
 # Featured Contributions
 https://github.com/sonirico/go-hyperliquid
+
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="dist/github-snake.svg" />
+</picture>
+
