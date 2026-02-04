@@ -44,8 +44,8 @@ Let's innovate and create amazing experiences together! 🚀
 
 
 # Featured Contributions
-[https://github.com/sonirico/go-hyperliquid PR#115 ](https://github.com/sonirico/go-hyperliquid/pull/115)
-[https://github.com/sonirico/go-hyperliquid PR#128 ](https://github.com/sonirico/go-hyperliquid/pull/128)
+* [https://github.com/sonirico/go-hyperliquid PR#115 ](https://github.com/sonirico/go-hyperliquid/pull/115)
+* [https://github.com/sonirico/go-hyperliquid PR#128 ](https://github.com/sonirico/go-hyperliquid/pull/128)
 
 
 <img alt="" src="profile-3d-contrib/profile-night-green.svg" />
