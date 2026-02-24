@@ -4,7 +4,7 @@
 
 I'm a passionate developer with a focus on Defi,AI and distributed systems. I love creating amazing experiences with code that have a.
 
-- 🚀 Currently working as a Dev and testing multiple technologies in Defi.
+- 🚀 Philospohy of Engineering is deeper than anyone expects.
 - 🌱 Learning and exploring new technologies.
 - 👯 Looking to collaborate on projects and innovative ideas.
 - 💬 Ask me about software development, blockchain  and LLMs.
