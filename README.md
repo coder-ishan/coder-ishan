@@ -34,18 +34,10 @@ Here are some technologies I work with:
 - [How to implement place objects on plane in unity with arcore for android](https://medium.com/@i_singh/how-to-implement-place-objects-on-plane-in-unity-with-arcore-for-android-3c6c3d617ce0)
 <!-- BLOG-POST-LIST:END -->
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-ishan&show_icons=true&locale=en&layout=compact" alt="coder-ishan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-ishan&show_icons=true&locale=en" alt="coder-ishan" /></p>
-Let's innovate and create amazing experiences together! 🚀
-
-
 # Featured Contributions
 * [https://github.com/sonirico/go-hyperliquid PR#115 ](https://github.com/sonirico/go-hyperliquid/pull/115)
 * [https://github.com/sonirico/go-hyperliquid PR#128 ](https://github.com/sonirico/go-hyperliquid/pull/128)
 
 
-<img alt="" src="profile-3d-contrib/profile-night-green.svg" />
+<img src="profile-3d-contrib/profile-night-green.svg" alt="Smaller profile icon" style="width: 50%; height: auto;" />
+
